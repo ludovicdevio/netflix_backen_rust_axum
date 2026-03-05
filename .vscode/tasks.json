@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Netflix Frontend - Dev Server",
+			"type": "shell",
+			"command": "cd /home/ludovicdev/Bureau/Rust/netflix_frontend && npx vite",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
