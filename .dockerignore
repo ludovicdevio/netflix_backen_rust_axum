@@ -1,0 +1,5 @@
+target/
+.git/
+.env
+assets/video.mp4
+.idea
